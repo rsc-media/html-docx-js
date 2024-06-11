@@ -1,7 +1,9 @@
 exclude:
   - "*"
-  - "!dist/"
-  - "!LICENSE"
-  - "!README.md"
+
+include:
+  - "dist/*"
+  - "LICENSE"
+  - "README.md"
 
 timezone: America/Phoenix
