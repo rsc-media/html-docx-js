@@ -2,7 +2,8 @@ exclude:
   - "*"
 
 include:
-  - "dist/*"
+  - "dist/"
+  - "dist/html-docx.js"
   - "LICENSE"
   - "README.md"
 
