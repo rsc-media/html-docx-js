@@ -1,6 +1,11 @@
+exclude:
+  - *
+
 include:
   - dist/
   - dist/html-docx.js
+  - src/
+  - test/
   - LICENSE
   - README.md
 
