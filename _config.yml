@@ -1,5 +1,13 @@
 exclude:
-  - *
+  - .arcconfig
+  - .gitignore
+  - .npmignore
+  - CHANGELOG.md
+  - bower.json
+  - coffeelint.json
+  - gul[pfile.coffee
+  - package-lock.json
+  - package.json
 
 include:
   - dist/
